@@ -1,0 +1,20 @@
+{
+    "name": "barista-bot",
+    "version": "1.0.0",
+    "description": "A simple app that asks for the name for your coffee order, and then butchers it, much like the baristas at your favorite coffee chain.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LukeStanbery89/Barista-Bot.git"
+    },
+    "keywords": [],
+    "author": "Luke Stanbery",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LukeStanbery89/Barista-Bot/issues"
+    },
+    "homepage": "https://github.com/LukeStanbery89/Barista-Bot#readme"
+}
